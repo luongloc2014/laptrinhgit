@@ -1,2 +1,1 @@
-# hoc-git
-kho chứa trong serial Git cơ bản
+# luongloc Huong dan Git co ban
